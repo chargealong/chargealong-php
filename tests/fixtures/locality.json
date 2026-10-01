@@ -1,0 +1,42 @@
+{
+  "data": {
+    "country": {
+      "iso2": "AU",
+      "slug": "australia",
+      "name": "Australia",
+      "site_count": 5076
+    },
+    "region": {
+      "slug": "victoria",
+      "code": "VIC",
+      "name": "Victoria",
+      "site_count": 718
+    },
+    "locality": {
+      "slug": "coburg",
+      "name": "Coburg",
+      "postcode": "3058",
+      "time_zone": "Australia/Melbourne",
+      "site_count": 0
+    },
+    "sites": [],
+    "facets": [],
+    "neighbours": [
+      {
+        "region": "victoria",
+        "slug": "batman",
+        "name": "Batman",
+        "site_count": 2,
+        "distance_km": 1.2107007134999999
+      },
+      {
+        "region": "victoria",
+        "slug": "brunswick",
+        "name": "Brunswick",
+        "site_count": 2,
+        "distance_km": 1.8502351159
+      }
+    ]
+  },
+  "generated_at": "2026-09-30T00:24:44Z"
+}

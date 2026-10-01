@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "iso2": "AU",
+      "slug": "australia",
+      "name": "Australia",
+      "site_count": 5076
+    },
+    {
+      "iso2": "CA",
+      "slug": "canada",
+      "name": "Canada",
+      "site_count": 16732
+    }
+  ],
+  "generated_at": "2026-09-30T00:24:34Z"
+}
